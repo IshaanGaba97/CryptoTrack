@@ -36,7 +36,7 @@ const App = () => (
         <Typography.Title level={5} style={{ color: 'white', textAlign: 'center' }}>
           Copyright © 2023<br/>
           <Link to="/">
-            CryptoMart Inc.
+            CryptoTrack Inc.
           </Link> <br />
           All Rights Reserved.
         </Typography.Title>
